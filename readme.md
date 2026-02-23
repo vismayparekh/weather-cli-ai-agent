@@ -201,8 +201,3 @@ This project demonstrates:
 -   Multi-step reasoning systems
 
 ------------------------------------------------------------------------
-
-# 👨‍💻 Author
-
-Vismay Parekh\
-AI / GenAI Engineer
